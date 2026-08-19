@@ -2,6 +2,16 @@
 
 一个本地运行的多章节 AI 学习工作台。当前包含 Agent、AI Harness、Transformer、RAG、LangChain、LangGraph 与 Vibe Coding 七章，共 107 个关卡，并提供章节知识地图、测验、复习、本地原文批注和基于证据的 AI 追问。
 
+## 下载与体验 v5.1.0
+
+任何人都可以从 GitHub 获取这个创意和完整源码：
+
+- 不使用 Git：在仓库页面点击 **Code → Download ZIP**，或直接[下载当前源码 ZIP](https://github.com/yyc20070712eason-netizen/ai-/archive/refs/heads/main.zip)。解压后按下方步骤运行。
+- 使用 Git：运行 `git clone https://github.com/yyc20070712eason-netizen/ai-.git`，再进入项目目录。
+- 需要 Node.js 20+。首次运行依次执行 `npm install`、`npm run dev`，然后按终端给出的本机地址打开应用。
+
+公开仓库只包含课程内容、源码和测试资料；个人学习记录、导入的原文、API Key 与本机构建产物均不会上传。
+
 ## 本地运行
 
 首次开发或修改代码后：
@@ -82,7 +92,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\launch-ai-study-v2.ps1
 
 ## 版本与数据格式
 
-- 当前应用发布版本为 `v4.6.0`；应用发布版本使用语义化版本，表示应用功能与发布批次。
+- 当前应用发布版本为 `v5.1.0`；应用发布版本使用语义化版本，表示应用功能与发布批次。
 - 学习档案备份格式当前为 v4，对应 `release.json` 的 `dataSchemaVersion` 和导出 JSON 顶层的 `version`。
 - 浏览器内的本地学习状态当前为 v5，写入存储键 `ai-study:v5`；旧版 `ai-study:v1` 至 `ai-study:v4` 只作为兼容迁移来源保留，不会在升级时删除。
 - 备份格式和内部学习状态独立版本化，因此备份格式 v4 可以承载学习状态 v5。导入仍兼容历史裸学习状态及 v4 学习档案。
