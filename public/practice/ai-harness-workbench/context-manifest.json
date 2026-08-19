@@ -1,0 +1,1 @@
+{"objective":"更新虚拟学习计划","scope":["fixtures/plan.json"],"contextFiles":["02-task-package.md"],"excluded":[".env","data/private"]}

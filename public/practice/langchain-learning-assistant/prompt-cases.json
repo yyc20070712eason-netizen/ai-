@@ -1,0 +1,1 @@
+[{"id":"p1","variables":{"topic":"attention"},"roles":["system","human"],"expectedText":"attention"},{"id":"p2","variables":{"topic":"RAG"},"roles":["system","human"],"expectedText":"RAG"},{"id":"p3","variables":{"topic":"Agent"},"roles":["system","human"],"expectedText":"Agent"},{"id":"p4","variables":{"topic":"LangGraph"},"roles":["system","human"],"expectedText":"LangGraph"}]

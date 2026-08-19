@@ -1,0 +1,1 @@
+{"phases":["inspect","plan","execute","verify"],"gates":{"test":"npm test","lint":"可选"},"handoff":{"requiredOn":["destructive-change","scope-expansion"]}}

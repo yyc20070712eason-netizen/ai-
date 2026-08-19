@@ -1,0 +1,25 @@
+{
+  "budget": {
+    "maxSteps": 4,
+    "maxRetries": 2
+  },
+  "routes": {
+    "search": {
+      "for": ""
+    },
+    "database": {
+      "for": ""
+    },
+    "calculator": {
+      "for": ""
+    }
+  },
+  "multiAgentDecision": {
+    "useMultipleAgents": false,
+    "reason": ""
+  },
+  "handoff": {
+    "finalOwner": "",
+    "fields": []
+  }
+}

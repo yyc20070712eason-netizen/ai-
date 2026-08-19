@@ -1,0 +1,1 @@
+{"metrics":{"recallAtK":0.8,"mrr":0.75,"citationCoverage":1},"citationPolicy":{"existingChunkOnly":true},"budgets":{"p95Ms":500},"degradation":["refuse-without-evidence"],"rrf":{"k":60,"deduplicate":true}}

@@ -1,0 +1,1 @@
+{"risks":[{"id":"r1","layer":"context","severity":"high","trigger":"读取 .env","control":"deny-path"},{"id":"r2","layer":"verification","severity":"high","trigger":"测试失败仍继续","control":"stop-on-failure"}]}

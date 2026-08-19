@@ -1,0 +1,1 @@
+{"node":">=20","packages":{"@langchain/core":"1.2.8","langchain":"1.5.9","zod":"4.4.3"},"mockModel":true,"smokeResult":"pass","componentLayers":["prompt","model","tool","agent"]}

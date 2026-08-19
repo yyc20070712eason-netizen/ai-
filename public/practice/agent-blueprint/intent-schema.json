@@ -1,0 +1,23 @@
+{
+  "intents": {
+    "orderLookup": {
+      "requiredSlots": [],
+      "tool": ""
+    },
+    "addressChange": {
+      "requiredSlots": [],
+      "dependsOn": [],
+      "tool": ""
+    }
+  },
+  "confirmationRules": {
+    "addressChange": {
+      "required": true,
+      "showBeforeAfter": true
+    }
+  },
+  "fallback": {
+    "action": "clarify",
+    "when": []
+  }
+}

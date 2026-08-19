@@ -1,0 +1,1 @@
+{"correlationId":"run-1","events":["task_started","tool_started","verification_failed","human_required","resumed","completed"],"handoff":{"reason":"verification-failed","options":["fix","stop"]},"resumeFrom":"checkpoint-2","finalStatus":"completed","sideEffectCount":1}

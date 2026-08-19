@@ -1,0 +1,1 @@
+{"project":"个人学习任务板","userFlow":["add","list","complete"],"fileBoundaries":["src","tests"],"acceptance":["npm test"],"contextFiles":["package.json","src/board.mjs","tests/board.test.mjs"]}

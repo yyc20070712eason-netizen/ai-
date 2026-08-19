@@ -1,0 +1,1 @@
+[{"id":"c1","source":"course-a","title":"注意力","start":0,"end":20,"text":"注意力根据相关性分配权重。"},{"id":"c2","source":"course-b","title":"RAG","start":0,"end":18,"text":"RAG 先检索证据再生成答案。"},{"id":"c3","source":"course-c","title":"Agent","start":0,"end":18,"text":"Agent 使用工具推进任务。"},{"id":"c4","source":"course-b","title":"引用","start":19,"end":38,"text":"答案必须引用存在的块。"}]

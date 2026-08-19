@@ -1,0 +1,30 @@
+{
+  "state": {
+    "currentGoal": "",
+    "constraints": []
+  },
+  "memory": {
+    "session": {
+      "source": "",
+      "expires": ""
+    },
+    "profile": {
+      "source": "",
+      "editable": true
+    },
+    "knowledge": {
+      "source": "",
+      "version": ""
+    }
+  },
+  "tools": {
+    "orderLookup": {
+      "input": {
+        "orderId": ""
+      },
+      "success": {},
+      "failure": {},
+      "sideEffect": "none"
+    }
+  }
+}

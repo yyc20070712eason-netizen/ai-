@@ -1,0 +1,1 @@
+{"events":["text_delta","tool_start","tool_result","complete","error"],"budgets":{"maxSteps":4,"timeoutMs":1000},"errors":["validation","tool","cancelled"],"rollback":true,"cases":["normal","missing-input","tool-error"]}

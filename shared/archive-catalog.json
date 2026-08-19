@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    { "id": "agent", "order": 1, "title": "Agent 手册", "url": "https://gcnum0i2ctpz.feishu.cn/docx/T5yudp4hMo6iMwxbYV0cftiIn6a", "aliases": ["agent手册", "agent", "大模型aiagent知识从0-1笔记万字详解版本"], "courseReady": true, "chapterId": "agent" },
+    { "id": "ai-harness", "order": 2, "title": "AI Harness 入门与实践", "url": "https://gcnum0i2ctpz.feishu.cn/docx/Y3YVdniSXob4YpxvGtBcUYtenTg", "aliases": ["aiharness入门与实践", "aiharness", "harness"], "courseReady": true, "chapterId": "ai-harness" },
+    { "id": "transformer", "order": 3, "title": "Transformer 架构深度解析", "url": "https://gcnum0i2ctpz.feishu.cn/docx/YdS7doO4joXk0wxVbAzc4T1LnNd", "aliases": ["transformer架构深度解析", "transformer手册", "transformer"], "courseReady": true, "chapterId": "transformer" },
+    { "id": "rag", "order": 4, "title": "RAG 技术深入理解", "url": "https://gcnum0i2ctpz.feishu.cn/docx/AkL6dtK5EoQ32YxlTmEcbNRInqe", "aliases": ["rag技术从小白到深入理解详细版", "rag手册", "rag"], "courseReady": true, "chapterId": "rag" },
+    { "id": "langchain", "order": 5, "title": "LangChain 从入门到实战", "url": "https://gcnum0i2ctpz.feishu.cn/docx/BlH2d5pigoVbKJxdoNIcYXvDnWe", "aliases": ["langchain框架从入门到实战开发附代码", "langchain手册", "langchain"], "courseReady": true, "chapterId": "langchain" },
+    { "id": "langgraph", "order": 6, "title": "LangGraph 从入门到实战", "url": "https://gcnum0i2ctpz.feishu.cn/docx/WejIdYMHCoDCj6xlnwQcHyWmnNc", "aliases": ["langgraph框架从入门到实战开发智能体附带完整可运行代码", "langgraph手册", "langgraph"], "courseReady": true, "chapterId": "langgraph" },
+    { "id": "vibe-coding", "order": 7, "title": "Vibe Coding 全栈开发指南", "url": "https://gcnum0i2ctpz.feishu.cn/docx/JvSHdKGWzojU5HxV1g2ctE6Mn23", "aliases": ["vibecoding指南ai编辑器全栈开发附实战和视频", "vibecoding", "ai编辑器全栈开发"], "courseReady": true, "chapterId": "vibe-coding" }
+  ]
+}

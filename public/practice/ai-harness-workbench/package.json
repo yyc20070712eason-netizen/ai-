@@ -1,0 +1,1 @@
+{"name":"ai-harness-workbench","private":true,"type":"module","scripts":{"test":"node --test"}}

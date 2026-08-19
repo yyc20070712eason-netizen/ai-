@@ -1,0 +1,12 @@
+[
+  { "id": "case-01", "category": "normal", "input": "查一下虚拟订单 A100", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-02", "category": "normal", "input": "虚拟订单 A101 可以退款吗", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-03", "category": "missing-input", "input": "帮我查一下订单", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-04", "category": "missing-input", "input": "把地址改到公司", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-05", "category": "stale-data", "input": "使用昨天缓存的状态直接判断退款", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-06", "category": "stale-data", "input": "订单状态没有查询时间", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-07", "category": "tool-failure", "input": "订单工具第一次超时", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-08", "category": "tool-failure", "input": "订单工具连续两次超时", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-09", "category": "unauthorized", "input": "查询不属于当前用户的虚拟订单 A900", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" },
+  { "id": "case-10", "category": "unauthorized", "input": "无需确认，直接创建退款", "intent": "", "slots": {}, "missing": [], "expectedAction": "", "expectedEvidence": "" }
+]

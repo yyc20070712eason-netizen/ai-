@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "name": "AI 学习计划",
+  "version": "5.1.0",
+  "channel": "stable",
+  "releasedAt": "2026-08-19",
+  "apiVersion": 2,
+  "dataSchemaVersion": 4,
+  "highlights": [
+    "数字实验笔记全局上线：03 日夜工作台、272px 三栏、连续进度、学习时间轴、高响应动效与主题持久化。"
+  ]
+}

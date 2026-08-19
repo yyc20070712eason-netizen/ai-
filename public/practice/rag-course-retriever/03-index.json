@@ -1,0 +1,1 @@
+{"documents":[{"chunkId":"c1","keywords":["注意力","权重"],"embedding":[1,0,0],"metadata":{"source":"course-a","version":"v1"}},{"chunkId":"c2","keywords":["RAG","检索"],"embedding":[0,1,0],"metadata":{"source":"course-b","version":"v1"}}]}

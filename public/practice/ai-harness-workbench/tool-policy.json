@@ -1,0 +1,1 @@
+{"allowedTools":["read","patch","test"],"deniedPaths":[".env","data/private",".."],"confirmOn":["delete","network","scope-expansion"]}

@@ -1,0 +1,1 @@
+{"node":">=20","packages":{"@langchain/core":"1.2.8","@langchain/langgraph":"1.4.10"},"path":["START","hello","END"],"result":"hello","mockOnly":true}

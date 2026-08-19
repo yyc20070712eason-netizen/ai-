@@ -1,0 +1,1 @@
+{"states":["ready","running","blocked","verifying","done"],"transitions":{"ready":["running"],"running":["blocked","verifying"],"verifying":["done","blocked"]},"checkpoint":{"version":1,"taskId":"t1"},"verification":["unit","integration"],"sandbox":{"writeRoots":["fixtures"]}}

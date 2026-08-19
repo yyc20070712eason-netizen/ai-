@@ -1,0 +1,1 @@
+{"tools":{"read_plan":{"inputSchema":{"date":"string"},"effect":"read","confirmation":false},"save_plan":{"inputSchema":{"items":"array","confirmed":"boolean"},"effect":"write","confirmation":true}}}

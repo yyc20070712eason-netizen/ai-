@@ -1,0 +1,1 @@
+{"fields":{"topic":"string","status":"string"},"owners":{"topic":"normalize","status":"route"},"nodes":["normalize","route"],"routes":{"ready":"END","missing":"clarify"},"terminalStates":["END"]}

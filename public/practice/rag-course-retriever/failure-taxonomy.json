@@ -1,0 +1,1 @@
+{"stages":["ingest","chunk","retrieve","rerank","answer"],"failureTypes":["retrieval","generation","citation"],"refusalRules":["no-evidence","citation-missing"]}
