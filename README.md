@@ -6,7 +6,7 @@
 
 任何人都可以从 GitHub 获取这个创意和完整源码：
 
-- 不使用 Git：在仓库页面点击 **Code → Download ZIP**，或直接[下载当前源码 ZIP](https://github.com/yyc20070712eason-netizen/ai-/archive/refs/heads/main.zip)。解压后按下方步骤运行。
+- 不使用 Git：在仓库页面点击 **Code → Download ZIP**，或直接[下载 v5.1.0 源码 ZIP](https://github.com/yyc20070712eason-netizen/ai-/archive/refs/tags/v5.1.0.zip)。解压后按下方步骤运行。
 - 使用 Git：运行 `git clone https://github.com/yyc20070712eason-netizen/ai-.git`，再进入项目目录。
 - 需要 Node.js 20+。首次运行依次执行 `npm install`、`npm run dev`，然后按终端给出的本机地址打开应用。
 
